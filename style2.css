@@ -9,7 +9,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(../forgithub/catlands11.png) ;
+    background-image: url(catlands11.png) ;
     background-size: cover;
     background-position: center;
 }
